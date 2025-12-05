@@ -27,13 +27,8 @@ Oui, je suis en alternance dans une clinique en tant qu’informaticien de proxi
 Pendant 2 ans au lycée, j’ai appris les bases du code, de la cybersécurité et du réseau.
 
 **Projet professionnel :**
-*(à compléter)*
 
 **Vos points forts / faibles :**
 
 * **Forts :** Lorsque je suis intéressé par un sujet, je veux absolument le terminer ou me renseigner un maximum dessus.
-* **Faibles :** *(à compléter)*
-
----
-
-Si tu veux, je peux aussi t’aider à remplir ton projet professionnel ou ta section “faiblesses”.
+* **Faibles :**
