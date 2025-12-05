@@ -1,20 +1,27 @@
 ***Présentation MILLERAND Matis***
 
 **Nom :** MILLERAND
+
 **Prénom :** Matis
+
 **Classe :** BTS SIO SISR
+
 **Date de naissance :** 17/10/2007
 
 **Établissement d’origine :** Lycée Jules Verne, Cergy (95800)
+
 **Baccalauréat obtenu et spécialité :** Bac technologique, spécialité SIN
+
 **Année d’obtention :** 2025
 
 **Avez-vous déjà effectué une autre formation après le bac ?** Non
 
 **Ville de résidence :** Courdimanche, à 10 minutes de Cergy à pied
+
 **Moyens de transport :** RER A, Bus
 
 **Mail lycée :** [matis.millerand@ensitech.eu](mailto:matis.millerand@ensitech.eu)
+
 **Mail personnel :** [matismiller95@gmail.com](mailto:matismiller95@gmail.com)
 
 **Pourquoi avoir choisi le BTS SIO SISR d’ENSUP ?**
