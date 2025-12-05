@@ -7,7 +7,7 @@ Bac obtenu et spécialité : Bac technologique spécialitée SIN
 Année d'optention : 2025 
 Avez-vous déjà effectué une autre formation après le bac ? : Non 
 Ville de résidence: Courdimanche , à 10 minutes de Cergy à pied, Moyen de transport -> RER A, Bus 
-Mail lycée : 
+Mail lycée : matis.millerand@ensitech.eu
 Mail personnel : matismiller95@gmail.com
 Pourquoi avoir choisi le BTS SIO SISR de ENSUP : C'est une formation que je trouve intéressante ppour mon avenir.
 J'ai choisis cette école car elle est en alternance , et a des bons taux de réussite.
