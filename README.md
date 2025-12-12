@@ -18,7 +18,7 @@
 
 **Ville de résidence :** Courdimanche, à 10 minutes de Cergy à pied
 
-**Moyens de transport :** RER A, Bus
+**Moyens de transport :** RER A, Ligne J, Bus
 
 **Mail lycée :** [matis.millerand@ensitech.eu](mailto:matis.millerand@ensitech.eu)
 
