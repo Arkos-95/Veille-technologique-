@@ -39,3 +39,9 @@ Pendant 2 ans au lycée, j’ai appris les bases du code, de la cybersécurité 
 
 * **Forts :** Lorsque je suis intéressé par un sujet, je veux absolument le terminer ou me renseigner un maximum dessus.
 * **Faibles :**
+
+***Ma Veille technologique***
+
+**Le sujet :** Les évolutions technologique dans le domaine médical.
+
+**Pourquoi se sujet ?** J'ai choisis se sujet car c'est l'avenir du secteur médicale et donc de notre santé. De plus , ce sujet a un lien avec mon alternance.
