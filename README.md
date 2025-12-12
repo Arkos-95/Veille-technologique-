@@ -33,7 +33,7 @@ Oui, je suis en alternance dans une clinique en tant qu’informaticien de proxi
 **Connaissances ou compétences en informatique :**
 Pendant 2 ans au lycée, j’ai appris les bases du code, de la cybersécurité et du réseau.
 
-**Projet professionnel :**
+**Projet professionnel :** Dans l'avenir, j'aimerais travailler dans le domaine de la cybersécurité.
 
 **Vos points forts / faibles :**
 
