@@ -20,7 +20,7 @@
 
 **Moyens de transport :** RER A, Ligne J, Bus
 
-**Mail lycée :** [matis.millerand@ensitech.eu](mailto:matis.millerand@ensitech.eu)
+**Mail école :** [matis.millerand@ensitech.eu](mailto:matis.millerand@ensitech.eu)
 
 **Mail personnel :** [matismiller95@gmail.com](mailto:matismiller95@gmail.com)
 
